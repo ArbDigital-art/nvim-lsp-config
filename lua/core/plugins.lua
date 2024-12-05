@@ -34,6 +34,14 @@ local plugins = {
   "williamboman/mason.nvim",
   "williamboman/mason-lspconfig.nvim",
   "neovim/nvim-lspconfig",
+
+  -- ToggleTerm
+  {'akinsho/toggleterm.nvim',
+    version = "*",
+    config = true,
+  },
+
+  -- Telescope
   {
     'nvim-telescope/telescope.nvim',
     tag = '0.1.8',
