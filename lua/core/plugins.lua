@@ -25,6 +25,10 @@ local plugins = {
   'nvim-tree/nvim-web-devicons',
   'nvim-lualine/lualine.nvim',
   'nvim-treesitter/nvim-treesitter',
+
+  -- rust
+  'simrat39/rust-tools.nvim',
+
   -- completion
   'hrsh7th/nvim-cmp',
   'hrsh7th/cmp-nvim-lsp',
